@@ -28,7 +28,7 @@ This project is a Python-based **Portfolio Generator** that allows users to:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AAWA-byt/portfolio-generator
    cd portfolio-generator
    ```
 2. Run the program:
